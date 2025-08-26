@@ -73,10 +73,18 @@ Metode utama yang digunakan adalah RFM (Recency, Frequency, Monetary) karena sed
 
 # 📊 Visualisasi
 
+Overview Dashboard
+![Overview Dashboard](reports/figures/customer_segmentation_overview_dashboard.png)
+
 Distribusi jumlah pelanggan per segmen
+![Distribusi jumlah pelanggan per segmen](reports/figures/Distribusi_jumlah_pelanggan_per_segmen.png)
 
 Kontribusi revenue per segmen
-
-Tren frequency & total belanja per bulan
+![Kontribusi revenue per segmen](reports/figures/Kontribusi_pendapatan_per_segmen_pelanggan.png)
 
 Distribusi kategori produk per segmen
+![Distribusi kategori produk per segmen](reports/figures/Distribusi_kategori_produk_berdasarkan_segmen_pelanggan.png)
+
+Tren frequency & total belanja per bulan
+![Tren frequency & total belanja per bulan](reports/figures/Tren-frequency_total_belanja_per_bulan_2017.png)
+
